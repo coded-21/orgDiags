@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T13:13:38.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="qoxM94tOfTcCoOr1xXv4" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T13:16:14.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="9_NFpj17N2pbBuzd7m4f" version="17.2.4" type="github">
   <diagram id="bT78htS52IDLtBRhpGCw" name="Page-1">
-    <mxGraphModel dx="593" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,6 +40,18 @@
         </mxCell>
         <mxCell id="ZLJa8oZ_94exKof08b3K-21" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Falls&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Makes Object Heavy&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Dark Puzzles&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Powerful&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Georgia;align=left;fontSize=10;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;textDirection=ltr;spacingLeft=-20;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="310" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-22" value="Floatable&lt;br&gt;Boxes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;fontFamily=Georgia;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-23" value="Lifts using Light/Dark Mechanism" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;fontFamily=Georgia;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-24" value="Light/Dark Explosion Style Combat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;fontFamily=Georgia;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-25" value="Ziplines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;fontFamily=Georgia;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
