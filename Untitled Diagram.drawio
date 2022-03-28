@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T13:01:28.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="htSRFOOLXOJo3wuGdeNw" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T13:13:38.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="qoxM94tOfTcCoOr1xXv4" version="17.2.4" type="github">
   <diagram id="bT78htS52IDLtBRhpGCw" name="Page-1">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZLJa8oZ_94exKof08b3K-4" value="Dash on Timer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLJa8oZ_94exKof08b3K-5" target="ZLJa8oZ_94exKof08b3K-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;" edge="1" parent="1" source="ZLJa8oZ_94exKof08b3K-5" target="ZLJa8oZ_94exKof08b3K-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-5" value="Switch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-6" value="Slash Attack" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;" edge="1" parent="1" source="ZLJa8oZ_94exKof08b3K-14" target="ZLJa8oZ_94exKof08b3K-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-14" value="Light" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;" edge="1" parent="1" source="ZLJa8oZ_94exKof08b3K-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-15" value="Dark" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-19" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Rises&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Makes Object Float&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Light Puzzles&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Faster&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Georgia;align=left;fontSize=10;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;textDirection=ltr;spacingLeft=-20;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLJa8oZ_94exKof08b3K-21" value="&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Falls&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Makes Object Heavy&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Dark Puzzles&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;Powerful&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Georgia;align=left;fontSize=10;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;textDirection=ltr;spacingLeft=-20;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
